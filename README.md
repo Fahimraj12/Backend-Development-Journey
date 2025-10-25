@@ -55,6 +55,16 @@ npm run dev
 # Production
 npm start
 
+Common Scripts
+Most projects include the following npm scripts:
+
+bash
+npm run dev      # Start development server
+npm start        # Start production server
+npm test         # Run test suite
+npm run build    # Build project (if applicable)
+npm run lint     # Run linter
+
 ### 👨‍💻 Author
 - [Mo Fahim Raj](https://www.linkedin.com/in/mo-fahim-raj-175b9b304/)
 - 📧 [mofahimraj@gmail.com]
