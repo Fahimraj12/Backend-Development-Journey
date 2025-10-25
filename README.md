@@ -7,7 +7,7 @@ In backend journey i have learn NODE.js, Express.js, MongoD(Compass & Atlas), Au
 ### Core Technologies
 - **Node.js** - Runtime environment
 - **Express.js** - Web framework
-- **JavaScript/TypeScript** - Programming languages
+- **JavaScript** - Programming languages
 
 ### Databases
 - **MongoDB** - NoSQL database
