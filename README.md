@@ -43,8 +43,8 @@ In backend journey i have learn NODE.js, Express.js, MongoD(Compass & Atlas), Au
     cp .env.example .env
 ##### Edit .env with your configurations
 - Run the application
-    ```bash
-    # Development
+   ```bash
+   # Development
     npm run dev
 
 - Production
