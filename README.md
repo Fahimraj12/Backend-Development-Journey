@@ -27,20 +27,13 @@ This repository serves as my personal learning journal and project portfolio for
 - **Node.js** - JavaScript runtime
 - **Express.js** - Web application framework
 - **MongoDB** - NoSQL database
-- **PostgreSQL** - Relational database
-- **MySQL** - Relational database
 
 ### Authentication & Security
 - **JWT** - JSON Web Tokens
 - **bcrypt** - Password hashing
-- **OAuth 2.0** - Authentication protocol
-- **Helmet.js** - Security headers
 
 ### DevOps & Tools
-- **Docker** - Containerization
-- **Redis** - Caching & session storage
-- **Nginx** - Reverse proxy & load balancing
-- **Postman** - API testing
+- **Thunder Client** - API Testing
 - **Git** - Version control
 
 ### Testing
