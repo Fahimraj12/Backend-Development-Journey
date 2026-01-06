@@ -36,9 +36,4 @@ This repository serves as my personal learning journal and project portfolio for
 - **Thunder Client** - API Testing
 - **Git** - Version control
 
-### Testing
-- **Jest** - Testing framework
-- **Mocha/Chai** - Testing utilities
-- **Supertest** - HTTP assertions
-
 ## 📁 Project Structure
