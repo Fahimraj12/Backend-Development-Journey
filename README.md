@@ -36,4 +36,4 @@ This repository serves as my personal learning journal and project portfolio for
 - **Thunder Client** - API Testing
 - **Git** - Version control
 
-## 📁 Project Structure
+## 📁 Project Structutw
