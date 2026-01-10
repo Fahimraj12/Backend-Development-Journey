@@ -55,4 +55,10 @@ This repository serves as my personal learning journal and project portfolio for
    cd Backend-Development-Journey
    ```
 
+Common Scripts
 
+npm run dev      # Start development server with nodemon
+npm start        # Start production server
+npm test         # Run test suite
+npm run lint     # Run ESLint
+npm run format   # Format code with Prettier
