@@ -56,7 +56,7 @@ This repository serves as my personal learning journal and project portfolio for
    ```
 
 Common Scripts
-
+```
 npm run dev      # Start development server with nodemon
 npm start        # Start production server
 npm test         # Run test suite
