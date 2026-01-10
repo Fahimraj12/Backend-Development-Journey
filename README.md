@@ -39,4 +39,18 @@ This repository serves as my personal learning journal and project portfolio for
 
 ## 🚀 Projects
 
+## 📦 Getting Started
+
+### Prerequisites
+- Node.js (v16 or higher)
+- npm or yarn
+- MongoDB / PostgreSQL (based on project)
+- Git
+
+### Basic Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Fahimraj12/Backend-Development-Journey.git
+   cd Backend-Development-Journey
 
