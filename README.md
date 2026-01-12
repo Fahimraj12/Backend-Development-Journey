@@ -11,7 +11,6 @@
 - [Project Structure](#-project-structure)
 - [Projects](#-projects)
 - [Getting Started](#-getting-started)
-- [Learning Path](#-learning-path)
 - [Contributing](#-contributing)
 - [License](#-license)
 - [Connect](#-connect)
