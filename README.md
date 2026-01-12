@@ -57,7 +57,10 @@ This repository serves as my personal learning journal and project portfolio for
 ```
 backend-development-journey/mailer
 ```
+Install dependencies
 
+bash
+npm install
 ```
 npm run dev      # Start development server with nodemon
 npm start        # Start production server
