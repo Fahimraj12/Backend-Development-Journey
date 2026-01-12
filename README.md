@@ -54,7 +54,10 @@ This repository serves as my personal learning journal and project portfolio for
    git clone https://github.com/Fahimraj12/Backend-Development-Journey.git
    cd Backend-Development-Journey
    ```
+2. Navigate to a specific project
 
+bash
+cd 01-fundamentals/express-setup
 Common Scripts
 ```
 npm run dev      # Start development server with nodemon
