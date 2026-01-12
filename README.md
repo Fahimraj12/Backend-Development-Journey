@@ -55,7 +55,7 @@ This repository serves as my personal learning journal and project portfolio for
    ```
 2. Navigate to a specific project
 ```
-   backend-development-journey/mailer
+backend-development-journey/mailer
 ```
 
 ```
