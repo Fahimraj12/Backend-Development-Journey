@@ -55,10 +55,10 @@ This repository serves as my personal learning journal and project portfolio for
    cd Backend-Development-Journey
    ```
 2. Navigate to a specific project
+```
+fundamentals/express-setup
 
-bash
-cd 01-fundamentals/express-setup
-Common Scripts
+```
 ```
 npm run dev      # Start development server with nodemon
 npm start        # Start production server
