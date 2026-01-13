@@ -53,18 +53,20 @@ This repository serves as my personal learning journal and project portfolio for
    git clone https://github.com/Fahimraj12/Backend-Development-Journey.git
    cd Backend-Development-Journey
    ```
-2. Navigate to a specific project
+2. **Navigate to a specific project**
 ```
 backend-development-journey/mailer
 ```
-3. Install dependencies
+3. **Install dependencies**
+```
 npm install
-Set up environment variabless
+```
+4. **Set up environment variables**
+```
 cp .env.example .env
 # Edit .env with your configurations
+```
 
-bash
-npm install
 ```
 npm run dev      # Start development server with nodemon
 npm start        # Start production server
