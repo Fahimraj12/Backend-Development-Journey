@@ -57,7 +57,11 @@ This repository serves as my personal learning journal and project portfolio for
 ```
 backend-development-journey/mailer
 ```
-
+3. Install dependencies
+npm install
+Set up environment variabless
+cp .env.example .env
+# Edit .env with your configurations
 
 bash
 npm install
