@@ -1,7 +1,7 @@
 # 🚀 Backend Development Journey
 
 ![GitHub stars](https://img.shields.io/github/stars/Fahimraj12/Backend-Development-Journey?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Fahimraj12/Backend-Development-Journey?style=social))
+![GitHub forks](https://img.shields.io/github/forks/Fahimraj12/Backend-Development-Journey?style=social)
 
 > A comprehensive collection of backend development projects, exercises, and learning materials. This repository documents my journey through modern backend engineering concepts and technologies.
 
