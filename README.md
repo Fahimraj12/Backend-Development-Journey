@@ -74,6 +74,7 @@ npm run dev
 # Production
 npm start
 ```
+### Common Scripts
 ```
 npm run dev      # Start development server with nodemon
 npm start        # Start production server
