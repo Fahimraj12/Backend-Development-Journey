@@ -57,7 +57,7 @@ This repository serves as my personal learning journal and project portfolio for
 ```
 backend-development-journey/mailer
 ```
-Install dependencies
+
 
 bash
 npm install
