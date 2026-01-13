@@ -66,7 +66,14 @@ npm install
 cp .env.example .env
 # Edit .env with your configurations
 ```
+5. Run the application
 
+bash
+# Development
+npm run dev
+
+# Production
+npm start
 ```
 npm run dev      # Start development server with nodemon
 npm start        # Start production server
