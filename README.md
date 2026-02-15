@@ -84,4 +84,4 @@ npm run format   # Format code with Prettier
 
 ```
 ## Author: 
-- MO FAHIM 
+- MO FAHIM Raj
