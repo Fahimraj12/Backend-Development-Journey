@@ -42,7 +42,7 @@ This repository serves as my personal learning journal and project portfolio for
 - MongoDB / PostgreSQL (based on project)
 - Git
 
-### Basic Setup
+### Basic Setup 
 
 1. **Clone the repository**
    ```bash
