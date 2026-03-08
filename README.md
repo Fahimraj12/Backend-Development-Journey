@@ -10,7 +10,6 @@
 - [Contributing](#-contributing)
 - [License](#-license)
 - [Connect](#-connect)
-
 ## 🎯 Overview
 
 This repository serves as my personal learning journal and project portfolio for backend development. It contains hands-on projects, code examples, and implementations of various backend concepts ranging from basic CRUD operations to advanced microservices architecture.
