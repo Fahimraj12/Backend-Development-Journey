@@ -66,6 +66,7 @@ cp .env.example .env
 # Development
 npm run dev
 
+
 # Production
 npm start
 ```
