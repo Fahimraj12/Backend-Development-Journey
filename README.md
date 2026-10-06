@@ -1,4 +1,4 @@
-# 🚀 Backend Development Journeys
+# 🚀 Backend Development Journey
 > A comprehensive collection of backend development projects, exercises, and learning materials. This repository documents my journey through modern backend engineering concepts and technologies.
 
 ## 📚 Table of Contents:
